@@ -1,1 +1,1 @@
-# Movie-Recommendation
+Using Pearson correlation and Euclidean distance as similarity metrics built a movie recommendation system using the MovieLens dataset which recommends movies to user based on how the user has rated the movies he has already watched.
